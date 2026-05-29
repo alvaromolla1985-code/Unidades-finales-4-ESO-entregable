@@ -1,0 +1,9 @@
+EcoEmprende 4º ESO - versión con vídeo embebido de YouTube
+
+Instrucciones:
+1. Mantén index.html y todas las imágenes PNG en la misma carpeta.
+2. Abre index.html en el navegador.
+3. El vídeo se carga desde YouTube: https://youtu.be/9rfJXbUtzg4
+4. Para ver el vídeo se necesita conexión a internet.
+
+Esta versión elimina el archivo Visible_lo_invisible.mp4 para reducir el peso y poder subirlo a Aules.
